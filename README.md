@@ -1,6 +1,7 @@
 # Fashion-MNIST-Dataset-Training
 ## ⚠️ DISCLAIMER ! ⚠️
-This is not a professional code that basically trains a Neural Network to identify clothes from the Fashion MNIST Dataset. 
+This is not a professional code
+It basically trains a Neural Network to identify clothes from the Fashion MNIST Dataset. 
 
 ## That being said, if it can help you, feel free to use it!
 
